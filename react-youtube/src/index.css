@@ -17,3 +17,12 @@ code {
 	margin: 0 auto;
 	width: 600px;
 }
+
+.buttonClose {
+	background-color: red;
+	border-radius: 50%;
+}
+
+.done {
+	text-decoration: line-through;
+}
